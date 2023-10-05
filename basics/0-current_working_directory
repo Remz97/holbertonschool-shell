@@ -1,2 +1,2 @@
 #!/bin/bash
-cd "$(pwd)" | sed 's/7/' | echo "Absolute Path: $(pwd)"
+pwd
